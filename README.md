@@ -25,6 +25,6 @@ Python 3 is preferred over Python 2 (duh).
 * [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) 
   on MDN web docs.
 * [Introduction to web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)
-  on MDN web docs
-* [Requests's quick start guide](https://3.python-requests.org/user/quickstart/)
-* [Beautiful Soup documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+  on MDN web docs.
+* [Requests's quick start guide](https://3.python-requests.org/user/quickstart/).
+* [Beautiful Soup documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/).
