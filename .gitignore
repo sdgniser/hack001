@@ -1,0 +1,7 @@
+*.log
+*.pot
+*.py[cod]
+*$py.class
+*.png
+
+tags
